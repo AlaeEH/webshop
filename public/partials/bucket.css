@@ -1,0 +1,16 @@
+.knoporder {
+	right: 100px; 
+	position: relative; 
+}
+
+.hoofd2 {
+	font-size: 30px;
+	font-family: 'Song Myung', serif;
+}
+
+.hoofd1 {
+	font-size: 35px; 
+	text-align: center; 
+	font-family: 'Song Myung', serif; 
+	font-weight: bold;
+}
